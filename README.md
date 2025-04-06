@@ -1,1 +1,1 @@
-# FNN-CookBook
+# Stock Closing Price Prediction 
